@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "For Your Beauty",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://cdn.shopify.com/s/files/1/0704/6378/2946/files/FYB.png?v=1718733388"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://cdn.shopify.com/s/files/1/0704/6378/2946/files/Googly.png?v=1718733389"
+    }
+  ]
+}
